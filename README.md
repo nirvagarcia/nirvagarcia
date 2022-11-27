@@ -1,8 +1,6 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif) 
+<img align="center" alt="Coding" width="100%" src="https://steamuserimages-a.akamaihd.net/ugc/879748616164108107/8F44EE6DAFB4F4E2469AA4947059A09E1A78E93C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
-<h1 align="center">Hi 👋, I'm Nirvana Garcia</h1>
-<h3 align="center">A passionate frontend developer from Peru</h3>
-<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/ba1e1315c5700e144a6bd1226883534a/tumblr_osndzwBxhj1tcg4xno1_500.gif">
+<h1 align="center">Hi! I'm Nirvana Garcia</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirvagarcia&label=Profile%20views&color=0e75b6&style=flat" alt="nirvagarcia" /> </p>
 
