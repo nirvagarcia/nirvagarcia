@@ -35,14 +35,18 @@
 
 ###
 <!-- https://nirvagarcia.hashnode.dev/ -->
-<div align="center">
+<!-- <div id="badges" align = "center">
     <a href="https://www.linkedin.com/in/nirvana-garcia/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-        <img src="https://img.shields.io/badge/hashnode-black?style=for-the-badge&logo=hashnode&logoColor=royalblue" alt="hashnode Badge"/>
-    </a><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-        <img src="https://img.shields.io/badge/portfolio-purple?style=for-the-badge&logo=world" alt="portfolio Badge"/>
-    </a><a href="https://www.instagram.com/nirvagarcia/">
-        <img src="https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a> 
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">  
+        <img src="https://img.shields.io/badge/hashnode-black?style=for-the-badge&logo=hashnode&logoColor=royalblue" alt="hashnode Badge"/>  
     </a>
-</div>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+        <img src="https://img.shields.io/badge/portfolio-purple?style=for-the-badge&logo=world" alt="portfolio Badge"/>
+    </a>
+    <a href="https://www.instagram.com/nirvagarcia/">
+        <img src="https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/>
+    </a> 
+
+</div> -->
