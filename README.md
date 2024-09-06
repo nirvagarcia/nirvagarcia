@@ -1,4 +1,3 @@
-<h3 align="left"> <img src="https://komarev.com/ghpvc/?username=nirvagarcia&label=Profile%20views&color=0e75b6&style=flat" alt="nirvagarcia" /> </h3>
 <h2 align="center">Nirvana´s .ENV! <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" alt="Nirvana GIF" style="vertical-align: middle; width: 50px; height: auto;"></h2>
 
 
