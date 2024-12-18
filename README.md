@@ -8,10 +8,10 @@
 
 
 ###
-💻 Software Engineering Student (1 year left rrraaaa)\
+💻 Software Engineering Student (1 year left!!!)\
 🤖 Developing Generative AI, Neural Networks and Full-Stack Projects\
-🦍 UX/UI Designer mi 2da chamba\
-🎧 Passionate about music, especially rock and j-music (what do yall know about tommy february6 and black sabbath)
+🦍 UX/UI Designer\
+🎧 Passionate about music
 
 
 
