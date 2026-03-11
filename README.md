@@ -8,8 +8,8 @@
 
 
 ###
-💻 Software Engineering Student (1 year left!!!)\
-🤖 Developing Generative AI, Neural Networks and Full-Stack Projects\
+💻 Software Engineering\
+🤖 Developing Generative AI, ML integrations and Full-Stack Projects\
 🦍 UX/UI Designer\
 🎧 Passionate about music
 
